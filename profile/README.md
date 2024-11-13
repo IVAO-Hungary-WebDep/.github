@@ -14,9 +14,8 @@ All repositories are private, so access requires prior authorization. If you're 
 
 ## Project Statistics
 
-- **Latest Commit**: ![Latest Commit](https://img.shields.io/github/last-commit/IVAO-Hungary-WebDep/ivaohu-discord)
-- **Total Issues**: ![Total Issues](https://img.shields.io/github/issues-raw/IVAO-Hungary-WebDep/ivaohu-discord)
-- **Total Pull Requests**: ![Total Pull Requests](https://img.shields.io/github/issues-pr-raw/IVAO-Hungary-WebDep/ivaohu-discord)
+- **Total Issues**: ![Total Issues](https://img.shields.io/badge/issues-6-blue)
+- **Total Pull Requests**: ![Total Pull Requests](https://img.shields.io/badge/pull%20requests-18-blue)
 
 ## Divisions Currently Using the Discord Authenticator
 
